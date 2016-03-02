@@ -12,7 +12,7 @@ Name:		python-linecache2
 Version:	1.0.0
 Release:	1
 License:	MIT
-Group:		Development/Tools
+Group:		Development/Languages/Python
 #Source0Download: https://pypi.python.org/pypi/linecache2
 Source0:	https://pypi.python.org/packages/source/l/linecache2/linecache2-%{version}.tar.gz
 # Source0-md5:	7b25d0289ec36bff1f9e63c4329ce65c
@@ -49,7 +49,7 @@ Moduł linecache pozwala na swobodny dostęp do linii tekstu.
 %package -n python3-linecache2
 Summary:	Backport of linecache to older supported Pythons
 Summary(pl.UTF-8):	Backport modułu linecache do starszych wersji Pythona
-Group:		Development/Tools
+Group:		Development/Languages/Python
 Requires:	python3-modules
 
 %description -n python3-linecache2
