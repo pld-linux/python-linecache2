@@ -1,5 +1,6 @@
 # NOTE: linecache already in standard libraries since 2.?/3.?;
-#       3.5 has even more functionality than linecache2 1.0.0 (lazycache() function)
+#       linecache 1.0.0 is equivalent of version from cpython 3.5.0 .. 3.7.0 (no changes in this range)
+#       so the only point of providing linecache2 1.0.0 for python>=3.5.0 are external dependencies
 #
 # Conditional build:
 %bcond_without	python2	# CPython 2.x module
