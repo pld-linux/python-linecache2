@@ -13,8 +13,8 @@ Version:	1.0.0
 Release:	1
 License:	MIT
 Group:		Development/Languages/Python
-#Source0Download: https://pypi.python.org/pypi/linecache2
-Source0:	https://pypi.python.org/packages/source/l/linecache2/linecache2-%{version}.tar.gz
+#Source0Download: https://pypi.org/pypi/linecache2/
+Source0:	https://files.pythonhosted.org/packages/source/l/linecache2/linecache2-%{version}.tar.gz
 # Source0-md5:	7b25d0289ec36bff1f9e63c4329ce65c
 URL:		https://github.com/testing-cabal/linecache2
 %if %{with python2}
