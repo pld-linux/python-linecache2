@@ -11,7 +11,7 @@ Summary:	Backport of linecache to older supported Pythons
 Summary(pl.UTF-8):	Backport modułu linecache do starszych wersji Pythona
 Name:		python-linecache2
 Version:	1.0.0
-Release:	7
+Release:	8
 License:	MIT
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/pypi/linecache2/
